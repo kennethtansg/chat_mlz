@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#e64e2c"				# button
+backgroundColor="#002b36"			# Right Big Panel
+secondaryBackgroundColor="#0eb0cc"		# Left Small Panel	#fa8e5c #37d7f0
+textColor="#ffffff"				# Text Color
+font="sans serif"
